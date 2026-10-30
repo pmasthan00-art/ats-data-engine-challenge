@@ -1,0 +1,6 @@
+entity_id,anomaly_type,description
+INT-2026-999001,INTERVIEW_UNAVAILABLE_INTERVIEWER,Scheduled against unallocated panel resource track.
+APP-REQ-2026-000001-CAND-000001-DUP,DUPLICATE_APPLICATION,Candidate recorded identical dual system pipeline entry tracking.
+APP-REQ-2026-000002-CAND-000002,MISSING_FEEDBACK_STAGE_ADVANCED,Workflow phase progressed bypassing core verification validation steps.
+OFF-2026-999001,OFFER_SALARY_OUT_OF_BAND,Offered compensation metrics value completely violates requisition limits (100467.0).
+REQ-2026-000091,CLOSED_ROLE_ACTIVE_APPLICATIONS,Dead job tracking index maintains active operational candidate routes.
